@@ -1,0 +1,12 @@
+{
+  "name": "ptrl-hub",
+  "productName": "PTRL HUB",
+  "version": "0.0.1",
+  "description": "Aplication for Portugal Racing League",
+  "author": {
+    "name": "Portugal Racing League",
+    "email": "ptracingleague@gmail.com",
+    "url": "https://github.com/simaoferreira"
+  },
+  "license": "MIT"
+}
